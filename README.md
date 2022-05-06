@@ -20,3 +20,6 @@ Programa desenvolvido como forma de entrega de atividade do Módulo 4. Onde foi 
 * Cada cidade criada deve ter no mínimo 4 estudantes, portanto deve-se verificar se este mínimo de estudantes já foram criados antes de encerrar a criação dos estudantes de cada cidade;
 * Quando for selecionado “0”, por meio do teclado, o sistema deve encerrar a criação dos estudantes, somente se a condição acima dos estudantes mínimos estiver atendida, e passar para a criação da próxima cidade ou encerrar caso o usuário deseje.
  
+### Como testar e utilizar o programa criado
+* Para a utilização do programa é preciso ter o Java instalado na máquina;
+* Após é preciso fazer o download de todas as classes do repositório e executar a classe "TesteFun4Study".
